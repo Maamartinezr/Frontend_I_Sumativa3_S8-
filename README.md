@@ -31,6 +31,33 @@ assets/
     lanzamientos.json
 ```
 
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- React mediante CDN
+- Fetch API
+- JSON local
+- GitHub Pages
+
+## Funcionalidades principales
+
+- Carrusel principal responsivo.
+- Catálogo de productos cargado dinámicamente desde un archivo JSON.
+- Tarjetas de productos con imagen, nombre, descripción, precio normal y precio oferta.
+- Filtro por categorías.
+- Buscador de productos.
+- Oferta semanal con botón interactivo.
+- Sección de últimos lanzamientos cargada dinámicamente.
+- Carrito de compras funcional.
+- Contador total de productos en el carrito.
+- Botones para agregar, aumentar, disminuir y eliminar productos.
+- Resumen del carrito con productos, subtotal, descuento agregado y total.
+- Mensajes condicionales cuando el carrito está vacío o no hay resultados de búsqueda.
+- Persistencia básica del carrito usando localStorage.
+
 ## Ejecucion
 
 Abrir `index.html` con Live Server desde Visual Studio Code.
